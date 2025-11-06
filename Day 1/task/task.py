@@ -1,2 +1,6 @@
-# Write your code below this line 👇
-print("heyyy joniii")
+print("Welcome to the Band Name Generator.")
+city = input("Dimana kamu lahir?")
+print(city)
+pet = input("Siapa nama peliharaan kamu?")
+print(pet)
+print("nama band kamu: "+city+" "+pet)
